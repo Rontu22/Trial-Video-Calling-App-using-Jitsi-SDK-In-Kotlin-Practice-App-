@@ -13,6 +13,10 @@ can video call or share your screen .
   
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Rontu22/Trial-Video-Calling-App-using-Jitsi-SDK-In-Kotlin-Practice-App-/blob/master/screenshots/1.jpeg)
+![App Screenshot](https://github.com/Rontu22/Trial-Video-Calling-App-using-Jitsi-SDK-In-Kotlin-Practice-App-/blob/master/screenshots/2.jpeg)
+![App Screenshot](https://github.com/Rontu22/Trial-Video-Calling-App-using-Jitsi-SDK-In-Kotlin-Practice-App-/blob/master/screenshots/3.jpeg)
+![App Screenshot](https://github.com/Rontu22/Trial-Video-Calling-App-using-Jitsi-SDK-In-Kotlin-Practice-App-/blob/master/screenshots/4.jpeg)
+
 
   
